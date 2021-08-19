@@ -52,7 +52,7 @@ public class ThucHanh {
         System.out.println();
 
         // Bài 4b: Tính tổng các phần tử trên đường chéo chính
-        System.out.println("Bài 4b: Tính tổng các phần tử trên đường chéo chính của ma trận vuông");
+        System.out.println("Bài 4b: Tính tổng trên ma trận vuông");
         System.out.print("Nhập vào số hàng/ cột của ma trận: ");
         int r2 = sc.nextInt();
         int c2 = r2;
